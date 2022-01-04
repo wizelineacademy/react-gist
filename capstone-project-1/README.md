@@ -56,16 +56,16 @@ The project is divided into 5 mini-challenges, you will have to solve each one a
 
 **IMPORTANT:** Each deliverable must be reported in the same PR. For example, the first and second would be sent in the same pull request
 
-- **First Deliverable** (July 26th)
+- **First Deliverable**
   - [**Mini-Challenge 1:** Core Concepts + Styling](https://github.com/wizelineacademy/react-gist/blob/main/capstone-project-1/mini-challenge-1.md)
   - [**Mini-Challenge 2:** Intro to Testing](https://github.com/wizelineacademy/react-gist/blob/main/capstone-project-1/mini-challenge-2.md)
-- **Second Deliverable** (August 2nd)
+- **Second Deliverable**
   - [**Mini-Challenge 3:** Hooks](https://github.com/wizelineacademy/react-gist/blob/main/capstone-project-1/mini-challenge-3.md)
-- **Third Deliverable** (August 16th)
+- **Third Deliverable**
   - [**Mini-Challenge 4:** State Management](https://github.com/wizelineacademy/react-gist/blob/main/capstone-project-1/mini-challenge-4.md)
-- **Fourth Deliverable** (August 25th)
+- **Fourth Deliverable**
   - [**Mini-Challenge 5:** Routing](https://github.com/wizelineacademy/react-gist/blob/main/capstone-project-1/mini-challenge-5.md)
-- **Final Deliverable** (August 30th)
+- **Final Deliverable**
 
 > **Important:* Please beware that all mini-challenges must be solved in order and incrementally.*
 
