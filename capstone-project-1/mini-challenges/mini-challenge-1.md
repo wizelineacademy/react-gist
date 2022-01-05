@@ -1,7 +1,7 @@
 # Mini-Challenge 1: Core Concepts and Styling
 
 ## Before you start:
-1. Read carefully [the instructions for the project](https://github.com/wizelineacademy/react-gist/blob/main/capstone-project-1/README.md), please make sure that you clearly understand all the requirements.
+1. Read carefully [the instructions for the project](https://github.com/wizelineacademy/react-gist/blob/main/capstone-project-1/apprenticeship/README.md), please make sure that you clearly understand all the requirements.
 2. Fork [this repo](https://github.com/wizelineacademy/react-apprenticeship-capstone1). Please make sure that your new repo is publicly accesible.
 
 > **NOTE:* You should use the provided codebase only as a guide for structuring your application. Feel free to add, remove, or change anything if you consider it necessary.*
