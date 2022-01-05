@@ -78,3 +78,8 @@ For submitting your work, you should follow these steps:
 5. Remember to submit your deliverables on time to be successfully evaluated
 
 Remember to always use your creativity!
+
+## Questions and/or difficulties?
+
+If you have any question about this challenge, feel free to ask on the Slack channel ASAP. 
+If you encounter any trouble with the base repo feel free to give feedback on the Slack channel and if possible open an issue on the project.
