@@ -1,8 +1,8 @@
-# Wizeline Academy - 2022 React Capstone Project 1
+# Wizeline Academy - 2022 React Apprenticeship Program Capstone Project 1
 ## Introduction
-Thank you for participating in the 2022 React Bootcamp! Here you will find the instructions to complete your project.
+Thank you for participating in the 2022 React Apprenticeship Program! Here you will find the instructions to complete your project.
 
-The purpose of this assignment is for you to demonstrate your React skills. This is your chance to show off everything you've learned during our bootcamp and earn your diploma.
+The purpose of this assignment is for you to demonstrate your React skills. This is your chance to show off everything you've learned during our apprenticeship program and earn your diploma.
 
 The idea is that you build and deliver an **entire** React application on your own. We don't want to limit you by providing some "fill-in-the-blanks" exercises, but instead ask you to build it from scratch. We hope you find this project challenging and engaging.
 
@@ -31,11 +31,11 @@ These are the main features required for the project:
 
 > **NOTE:* You should use the [demo application](https://react-certification-2020.netlify.app/) just as a guide and as a trigger for your own ideas. It's not mandatory to reproduce the exact same styling nor to stick only to the main features listed above. Feel free to extend the functionalities if you want some bonus points ;)! This is YOUR project and you can be as creative as you like.*
 
-We won't share the project's source-code until the bootcamp is completed and all the participants deliver their own implementations (we don't want to bias your solution).
+We won't share the project's source-code until the apprenticeship program is completed and all the participants deliver their own implementations (we don't want to bias your solution).
 
 ### General Requirements
 These are the main requirements we will evaluate from your deliverables:
-- Apply everything you've learned during our bootcamp:
+- Apply everything you've learned during our apprenticeship program:
   - Functional Components
     - React Hooks
     - Custom Hooks
@@ -49,7 +49,7 @@ These are the main requirements we will evaluate from your deliverables:
   - User Authentication
   - Testing Coverage (~70%)
   
-Try to keep the use of third party libraries to the minimum, especially the ones related to the topics covered in our bootcamp, e.g., you can use a CSS framework (such as Bootstrap) if that makes you feel more comfortable and move faster, but we will still want you to develop and deliver meaningful styled-components.
+Try to keep the use of third party libraries to the minimum, especially the ones related to the topics covered in our apprenticeship program, e.g., you can use a CSS framework (such as Bootstrap) if that makes you feel more comfortable and move faster, but we will still want you to develop and deliver meaningful styled-components.
 
 ### Deliverables
 The project is divided into 5 mini-challenges, you will have to solve each one at the end of each module so we can evaluate what you've learned. 
@@ -71,8 +71,8 @@ The project is divided into 5 mini-challenges, you will have to solve each one a
 
 #### Submitting the deliverables
 For submitting your work, you should follow these steps:
-1. Fill [the form](https://forms.gle/cpB6TbmwVuxWt3Cp7) to submit your project
-2. Projects must be forked from the [baseline repo](https://github.com/cvillanueva84/react-certification-2021)
+1. Fill [the form](https://forms.gle/7Jz2uXMFYXfcU2428) to submit your project
+2. Projects must be forked from the [baseline repo](https://github.com/wizelineacademy/react-apprenticeship-capstone1)
 3. Please make sure that your forked repo is public
 4. Submit your deliverables as a **Pull Request (PR)** in a new branch derived from master/main on your own GitHub account
 5. Remember to submit your deliverables on time to be successfully evaluated
