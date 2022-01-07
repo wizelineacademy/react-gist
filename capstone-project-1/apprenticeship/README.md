@@ -80,7 +80,10 @@ For submitting your work, you should follow these steps:
 
 Remember to always use your creativity!
 
-## Questions and/or difficulties?
+### Demo App
+The demo app has a private route use `wizeline` as the username and `Rocks!` as the password to log in.
+
+### Questions and/or difficulties?
 
 If you have any question about this challenge, feel free to ask on the Slack channel ASAP. 
 If you encounter any trouble with the base repo feel free to give feedback on the Slack channel and if possible open an issue on the project.
