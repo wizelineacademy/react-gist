@@ -86,7 +86,7 @@ Remember to always use your creativity!
 To set up the app and install dependencies run the following command: `npm install` or `npm i`.
 Then run: `npm run prepare` to initialize husky and `npm install -g @commitlint/cli @commitlint/config-conventional` to install commitlint
 
-To find out more documentation about commitlint and conventional commits visit this [wiki](https://github.com/wizelineacademy/react-apprenticeship-capstone1/wiki/Commiting-to-the-project)
+To find out more documentation about commitlint and conventional commits visit this [wiki](https://github.com/wizelineacademy/react-apprenticeship-capstone1/wiki/Creating-commits)
 <br>
 The demo app has a private route use `wizeline` as the username and `Rocks!` as the password to log in.
 
