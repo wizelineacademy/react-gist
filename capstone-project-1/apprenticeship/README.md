@@ -80,10 +80,17 @@ For submitting your work, you should follow these steps:
 
 Remember to always use your creativity!
 
-### Demo App
+## Demo App
+
+## Set up
+To set up the app and install dependencies run the following command: `npm install` or `npm i`.
+Then run: `npm run prepare` to initialize husky and `npm install -g @commitlint/cli @commitlint/config-conventional` to install commitlint
+
+To find out more documentation about commitlint and conventional commits visit this [wiki](https://github.com/wizelineacademy/react-apprenticeship-capstone1/wiki/Commiting-to-the-project)
+<br>
 The demo app has a private route use `wizeline` as the username and `Rocks!` as the password to log in.
 
-### Questions and/or difficulties?
+## Questions and/or difficulties?
 
 If you have any question about this challenge, feel free to ask on the Slack channel ASAP. 
 If you encounter any trouble with the base repo feel free to give feedback on the Slack channel and if possible open an issue on the project.
